@@ -1,0 +1,20 @@
+{
+	"name": "jsuggs/amazon-mws-login-and-pay",
+	"description": "Login and Pay with Amazon",
+	"keywords": ["amazon", "mws", "amazon payments"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jonathon Suggs",
+			"email": "jsuggs@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"autoload": {
+		"classmap": [
+            "src/"
+        ]
+	}
+}
